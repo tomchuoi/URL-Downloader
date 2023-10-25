@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">URL Downloader</string>
+    <string name="enter_the_url">Enter the URL</string>
+    <string name="send">send</string>
+    <string name="Install" />
+    <string name="install">Install</string>
+</resources>
